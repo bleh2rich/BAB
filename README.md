@@ -15,7 +15,7 @@
 
 - <a href="https://www.youtube.com/@PrestigedDev">Official BAB Wattyhub Developer</a>
 
-- Loadstring BAB Wattyhub
+- Loadstring BAB Wattyhub COPY ME
 ```
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/bleh2rich/ATN/refs/heads/main/ATNWattyHub.lua'),true))()
 ```
