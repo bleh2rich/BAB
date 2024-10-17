@@ -4,7 +4,7 @@
         <img src="https://i.imgur.com/KmZpHnw_d.webp?maxwidth=760&fidelity=grand" width="550" alt="Showcase video" title="Showcase video">
     </a>
 </p>
-<p align= "center"> <kbd> <img  src="[https://i.imgur.com/ylRrPFi.png](https://i.imgur.com/OaMe3dl.gif)"width="750"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="[https://i.imgur.com/OaMe3dl.gif]"width="750"> </kbd><br><br>
 
 # DISCORD SERVER INVITE discord.gg/zbgRZxNRKa
     
