@@ -1,7 +1,7 @@
 <h1 align="center">✨ Watty BAB 🎉</h1> 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=By29I_pvbNA" target="_blank">
-        <img src="https://i.imgur.com/KmZpHnw_d.webp?maxwidth=760&fidelity=grand" width="550" alt="Showcase video" title="Showcase video">
+    <a href="https://www.youtube.com/watch?v=4xk7mR1x62U" target="_blank">
+        <img src="https://i.imgur.com/JH12YPB_d.webp?maxwidth=760&fidelity=grand" width="550" alt="Showcase video" title="Showcase video">
     </a>
 </p>
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/OaMe3dl.gif"width="750"> </kbd><br><br>
