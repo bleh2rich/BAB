@@ -6,7 +6,7 @@
 </p>
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/OaMe3dl.gif"width="750"> </kbd><br><br>
 
-# DISCORD SERVER INVITE discord.gg/zbgRZxNRKa
+# DISCORD SERVER INVITE https://discord.gg/gd8Vfa5kh5
     
 
 - 10/16/2024 UPDATE LOG
